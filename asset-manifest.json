@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Box-Building/static/css/main.073c9b0a.css",
+    "main.js": "/Box-Building/static/js/main.4b2eb6cc.js",
+    "static/js/787.85b1b2c1.chunk.js": "/Box-Building/static/js/787.85b1b2c1.chunk.js",
+    "index.html": "/Box-Building/index.html",
+    "main.073c9b0a.css.map": "/Box-Building/static/css/main.073c9b0a.css.map",
+    "main.4b2eb6cc.js.map": "/Box-Building/static/js/main.4b2eb6cc.js.map",
+    "787.85b1b2c1.chunk.js.map": "/Box-Building/static/js/787.85b1b2c1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.4b2eb6cc.js"
+  ]
+}
